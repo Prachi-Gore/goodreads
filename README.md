@@ -28,3 +28,15 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+// to run project 
+npm run dev
+
+// added dependencies
+Install daisyUI as a Tailwind CSS plugin
+npm install @reduxjs/toolkit
+npm install react-redux
+npm i react-hot-toast
+npm i react-icons
+npm i eslint-plugin-simple-import-sort
+npm i react-router-dom
