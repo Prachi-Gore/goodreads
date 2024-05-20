@@ -34,7 +34,9 @@ npm run dev
 
 // added dependencies
 Install daisyUI as a Tailwind CSS plugin
+npm i vite-tsconfig-paths (absolute path) make changes in vite.config.ts tsconfig.json
 npm install @reduxjs/toolkit
+npm i @types/react-redux
 npm install react-redux
 npm i react-hot-toast
 npm i react-icons

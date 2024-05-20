@@ -1,12 +1,14 @@
 
 import './App.css'
 
+import MainRouter from 'Routes/MainRouter'
+
 function App() {
  
   return (
-    <div className='text-center bg-red-500'>
-    hii
-    </div>
+   
+    <MainRouter/>
+    
   )
 }
 
